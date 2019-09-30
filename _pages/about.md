@@ -1,35 +1,33 @@
 ---
-title: About Journal
-subtitle: A stunning personal blog Jekyll theme with an image-focused design.
-description: A stunning personal blog Jekyll theme with an image-focused design.
-featured_image: /images/demo/demo-portrait.jpg
+title: Interests
+# subtitle: A stunning personal blog Jekyll theme with an image-focused design.
+# description: A stunning personal blog Jekyll theme with an image-focused design.
+featured_image: /images/game.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+<!-- ![](/images/demo/demo-landscape.jpg) -->
 
-## Features
+### Video Games
+I play video games extensively. ***Dota 2*** ([my dotabuff page](https://www.dotabuff.com/players/194883564)) is my most played game, which I've spent more than 3000 hours on. My highest MMR was around 5k, but I haven't played ranked games since a long time ago.
 
-Journal is packed with powerful features to showcase your work:
+![](/images/dota2.png)
 
-* Beautiful, minimal design
-* Fixed sidebar images that animate as you browse
-* Single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio/projects post type to show your work
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+I have played ***World of Warcraft*** (as a rogue only!) for more than 10 years, and most of my time was spent in CN region. I started playing in US region since Tier 19, and raided semi-hardcorely with a top-30 US guild to clear Tomb of Sargeras ([my warcraftlogs](https://www.warcraftlogs.com/character/id/26180110?zone=13&mode=detailed#difficulty=4&partition=1)). I'm currently AFK, since I find it hard to spend 10 hours raiding every week, and WoW is not that attractive as it was before.
 
-## Get Index
+Besides Dota and Wow, I also love playing adventure/role playing/strategy games. This includes ***The Elder Scrolls*** series, ***Divinity: Original Sin*** series, ***Civilization*** series, ***Stellaris***, ***Total War*** series, and so on. Check [my steam profile](https://steamcommunity.com/id/ryutaa/) to find more!
 
-Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $39.
+### Arcade Games and Music
 
-<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>
+I'm a fanatical arcade rhythm game fan, with ***Dance Dance Revolution*** and ***Jubeat*** being my most played games.
+
+<div class="gallery" data-columns="2">
+	<img src="/images/ddr.jpg">
+	<img src="/images/jubeat.jpg">
+</div>
+
+I also play (casually) other rhythm games like ***Beatmania IIDX***, ***SOUND VOLTEX*** and ***CHUNITHM***, and I love trying out new ones. SEGA's ***ONGEKI*** is my current new favorite.
+
+Because of my interests towards rhythm games, I developed a deep fond of speedcore/dubstep/future bass music. My favorite artists include ***[t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt)***, **[かめりあ](https://open.spotify.com/artist/4bwIf0yXJf0F9AmOl2J78M)**, and ***[Laur](https://soundcloud.com/laur_10)***.
+
+### Anime
+I'm a huge Japanese anime and manga fan. Check [MyAnimeList](https://myanimelist.net/profile/bunbohuehue#statistics) to see if you share a similar taste with me!
