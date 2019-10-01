@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Jie Zhou
-  site_tagline: Software Engineer
+  site_tagline: An Aspiring Software Engineer
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -16,8 +16,8 @@ menu_settings:
     #   url: '/projects/'
     - title: 'Interests'
       url: '/about'
-    # - title: 'Contact'
-    #   url: '/contact'
+    - title: 'FAQ'
+      url: '/faq'
 
 grid_settings:
   grid_spacing: 10
